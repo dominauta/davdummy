@@ -14,3 +14,9 @@
 [![codecov](https://img.shields.io/codecov/c/github/dominauta/davdummy)](https://codecov.io/gh/dominauta/davdummy/tree/main/davdummy)
 [![black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davdummy/binder-sandbox/HEAD)
+
+![logo](https://i.imgur.com/cN1ZWq8.png)
+
+davdummy: An open source test package.
+
+davdummy is my first python library included in Git.
